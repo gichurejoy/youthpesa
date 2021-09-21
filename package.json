@@ -1,0 +1,23 @@
+{
+  "name": "youthpesa",
+  "version": "1.0.0",
+  "description": "A mobile application that helps people seeking employment to do so with ease",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build admin/src/style.css -o admin/views/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngangasusan/youthpesa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngangasusan/youthpesa/issues"
+  },
+  "homepage": "https://github.com/ngangasusan/youthpesa#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.15"
+  }
+}
